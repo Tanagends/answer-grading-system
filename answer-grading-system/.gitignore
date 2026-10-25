@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+
+# Fine-tuned transformer weights -- large binaries, regenerate locally with:
+#   python src/finetune_crossencoder.py
+models/finetuned-crossencoder/

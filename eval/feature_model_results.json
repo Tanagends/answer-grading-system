@@ -1,0 +1,27 @@
+{
+  "in_domain_test": {
+    "pearson_r": 0.645,
+    "mae_fraction_of_marks": 0.212,
+    "qwk": 0.541,
+    "accuracy": 0.664,
+    "distinct_marks_out_of_10": 20,
+    "n": 122
+  },
+  "unseen_question_cv": {
+    "pearson_r": 0.542,
+    "mae_fraction_of_marks": 0.229,
+    "qwk": 0.452,
+    "accuracy": 0.608,
+    "distinct_marks_out_of_10": 21,
+    "n": 607
+  },
+  "majority_class_accuracy": 0.549,
+  "out_of_domain_toy": {
+    "pearson_r": 0.87,
+    "mae_fraction_of_marks": 0.18,
+    "qwk": 0.676,
+    "accuracy": 0.625,
+    "distinct_marks_out_of_10": 10,
+    "n": 16
+  }
+}

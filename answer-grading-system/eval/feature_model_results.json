@@ -1,0 +1,21 @@
+{
+  "in_domain_test": {
+    "pearson_r": 0.58,
+    "qwk": 0.58,
+    "accuracy": 0.672,
+    "n": 122
+  },
+  "unseen_question_cv": {
+    "pearson_r": 0.429,
+    "qwk": 0.429,
+    "accuracy": 0.61,
+    "n": 607
+  },
+  "majority_class_accuracy": 0.549,
+  "out_of_domain_toy": {
+    "pearson_r": 0.719,
+    "qwk": 0.676,
+    "accuracy": 0.625,
+    "n": 16
+  }
+}

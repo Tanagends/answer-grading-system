@@ -1,0 +1,11 @@
+# Core pipeline + dashboard -- no model downloads needed
+pandas
+scikit-learn
+scipy
+streamlit
+openpyxl      # Excel upload / export
+
+# Fine-tuning / embeddings upgrade (finetune_crossencoder.py, embeddings_scorer.py)
+# -- needs Hugging Face Hub access; install and run on a laptop / WSL / Colab:
+# sentence-transformers
+# torch

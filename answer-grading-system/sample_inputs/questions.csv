@@ -1,0 +1,17 @@
+question_id,question,max_marks
+Q1," Give a definition for the term ""artificial neural network"" and mention, how it resembles the human brain!",10
+Q2,"Define the mathematical model of a neuron, use the appropriate technical terms!",10
+Q4,Explain classification and regression; what is the difference?,10
+Q5,Write down the SOM learning in pseudo code.,10
+Q6,Give the basic idea of an SVM using the correct terminology!,10
+Q7, What role does the method of steepest decent have when learning a network?,10
+Q8,Define: a hypothesis $h \in H$ shatters a dataset $A \subseteq X \Leftrightarrow \ldots$,10
+Q9,Write down and explain the Widrow-Hoff learning rule!,10
+Q10,"Explain back propagation, use the correct technical terms!",10
+Q11,"When learning using steepest descent, explain the role of the learning rate? What is a danger?",10
+Q12,How does a Reduced Boltzman Machine work (main idea)?,10
+Q13,"Define: Echo State Network (ESN), how are they different to FF NNs?",10
+Q14,Describe: the structure on an CNN.,10
+Q15,"What are three items to be learned for an RBF network? Difference to other NNs, Pros/cons?",10
+Q16,"Describe how learning based on k-nearest neighbors works, use pseudo code!",10
+Q17,Explain the Bias Variance Dilemma!,10
